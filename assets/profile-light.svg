@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">Naveen Malothu — AI Infrastructure Engineer and Founder</title>
+<desc id="desc">Building AI systems, cloud platforms and products. Founder of Griffin AI Tech and MyDrivingSchool. Based in India, building everywhere.</desc>
+<defs><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#d9e1ef" stroke-width=".6" opacity=".28"/></pattern><linearGradient id="glow"><stop stop-color="#704acb" stop-opacity=".13"/><stop offset="1" stop-color="#f5f7fc" stop-opacity="0"/></linearGradient><clipPath id="typing"><rect class="reveal" x="62" y="282" width="730" height="44"/></clipPath></defs>
+<style>
+text{font-family:Arial,Helvetica,sans-serif}.mono,.mono text{white-space:pre;font-family:'Courier New',monospace}.reveal{animation:type 9s steps(48,end) infinite}.cursor{animation:blink 1s steps(2,end) infinite}.node{animation:pulse 3s ease-in-out infinite}.node2{animation-delay:1s}.node3{animation-delay:2s}
+@keyframes type{0%,8%{width:0}45%,88%{width:730px}100%{width:0}}@keyframes blink{50%{opacity:0}}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.reveal,.cursor,.node{animation:none}}
+</style>
+<rect x="1" y="1" width="1198" height="618" rx="24" fill="#f5f7fc" stroke="#d9e1ef"/>
+<rect x="2" y="2" width="1196" height="616" rx="23" fill="url(#grid)"/>
+<ellipse cx="1060" cy="280" rx="390" ry="310" fill="url(#glow)"/>
+<path d="M1 63H1199" stroke="#d9e1ef"/>
+<circle cx="32" cy="32" r="6" fill="#ee797e"/><circle cx="54" cy="32" r="6" fill="#dfb864"/><circle cx="76" cy="32" r="6" fill="#73bf93"/>
+<text x="110" y="38" class="mono" font-size="14" fill="#596a84">naveen@workspace ~ / profile</text>
+<text x="1137" y="38" text-anchor="end" class="mono" font-size="12" fill="#704acb">BUILD • SHIP • ITERATE</text>
+<circle cx="69" cy="118" r="4" fill="#147f6a" class="node"/><text x="83" y="123" class="mono" font-size="12" letter-spacing="1.2" fill="#147f6a">OPEN TO MEANINGFUL COLLABORATIONS</text>
+<text x="62" y="187" font-size="22" fill="#596a84">Hello, I'm</text>
+<text x="58" y="258" font-size="68" font-weight="700" letter-spacing="-3" fill="#172239">Naveen Malothu<tspan fill="#704acb">.</tspan></text>
+<g clip-path="url(#typing)"><text x="62" y="312" class="mono" font-size="22" fill="#704acb">AI Infrastructure Engineer × Founder</text></g>
+<text x="62" y="364" font-size="19" fill="#596a84">From an idea to infrastructure that scales.</text>
+<text x="62" y="395" font-size="19" fill="#596a84">I build AI systems, cloud platforms, and products</text>
+<text x="62" y="426" font-size="19" fill="#596a84">that make a difference.</text>
+<g transform="translate(837 142)"><rect width="292" height="292" rx="22" fill="#ffffff" stroke="#d9e1ef"/><text x="25" y="35" class="mono" font-size="11" fill="#596a84">IDENTITY / 001</text>
+<g class="mono" font-size="22" fill="#704acb" xml:space="preserve"><text x="47" y="105">NN   NN MM   MM</text><text x="47" y="129">NNN  NN MMM MMM</text><text x="47" y="153">NN N NN MM M MM</text><text x="47" y="177">NN  NNN MM   MM</text><text x="47" y="201">NN   NN MM   MM</text></g>
+<path d="M25 236H267" stroke="#d9e1ef"/><circle cx="30" cy="260" r="4" fill="#147f6a" class="node"/><circle cx="46" cy="260" r="4" fill="#147f6a" class="node node2"/><circle cx="62" cy="260" r="4" fill="#147f6a" class="node node3"/><text x="87" y="265" class="mono" font-size="11" fill="#596a84">SYSTEMS ONLINE<tspan class="cursor">_</tspan></text></g>
+<rect x="62" y="472" width="1076" height="86" rx="14" fill="#ffffff" stroke="#d9e1ef"/>
+<text x="87" y="503" class="mono" font-size="10" letter-spacing="1.5" fill="#596a84">CURRENTLY</text><text x="87" y="530" font-size="15" fill="#172239">Lead AI, Cloud &amp; Platform Engineer · CloudSeals</text>
+<path d="M600 493V539" stroke="#d9e1ef"/>
+<text x="624" y="503" class="mono" font-size="10" letter-spacing="1.5" fill="#596a84">BUILDING</text><text x="624" y="530" font-size="15" fill="#172239">Griffin AI Tech + MyDrivingSchool</text>
+<text x="62" y="591" class="mono" font-size="11" letter-spacing="1" fill="#596a84">BASED IN INDIA · BUILDING EVERYWHERE</text><text x="1138" y="591" text-anchor="end" class="mono" font-size="11" fill="#704acb">naveenmalothu.com ↗</text>
+</svg>
