@@ -1,44 +1,52 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-  <img alt="Animated ASCII portrait of Naveen Malothu alongside a developer terminal with AI, cloud, DevOps and founder details." src="assets/profile-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/engineer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/engineer-light.svg">
+  <img src="assets/engineer-light.svg" width="100%" alt="Naveen Malothu — engineer, architect and founder. I build the systems behind intelligent products.">
 </picture>
 
 <p align="center">
-  <a href="https://naveenmalothu.com"><strong>Portfolio ↗</strong></a> &nbsp; · &nbsp;
-  <a href="https://linkedin.com/in/naveen-malothu">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="mailto:admin@naveenmalothu.com">Let’s build something</a>
+  <a href="https://naveenmalothu.com"><strong>Portfolio ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://linkedin.com/in/naveen-malothu"><strong>LinkedIn ↗</strong></a> &nbsp; / &nbsp;
+  <a href="mailto:admin@naveenmalothu.com"><strong>Start a conversation ↗</strong></a>
 </p>
 
-### The person behind the systems
+### Engineering where AI, infrastructure, and product meet.
 
-I'm **Naveen**, an AI Infrastructure Engineer and DevOps Architect. I turn complex problems into dependable cloud-native systems and AI-powered products.
+I'm **Naveen Malothu**, an AI Infrastructure Engineer and DevOps Architect. At **CloudSeals**, I lead AI, Cloud & Platform Engineering: production AI systems, cloud-native services, infrastructure as code, and delivery pipelines.
 
-- **At CloudSeals:** leading AI, Cloud & Platform Engineering — from infrastructure as code and delivery pipelines to production AI systems.
-- **As a founder:** building [Griffin AI Tech](https://griffinaitech.com) and [MyDrivingSchool](https://mydrivingschool.in), owning the journey from architecture to launch.
-- **What I care about:** useful products, reliable infrastructure, and making the complicated feel simple.
-- **Open to:** engineering roles, consulting, and thoughtful collaborations. Based in India; comfortable working remotely.
-
-### My toolkit
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img alt="Cloud and platform: AWS, Google Cloud, Azure, Terraform, Kubernetes, Docker. AI: Python, FastAPI, LangChain, LangGraph, OpenAI, RAG. Delivery: GitHub Actions, ArgoCD, Helm, Prometheus, Grafana, OpenTelemetry. Product: React, Next.js, TypeScript, Node.js, PostgreSQL." src="assets/stack-light.svg" width="100%">
-</picture>
+I also founded **[Griffin AI Tech](https://griffinaitech.com)** and **[MyDrivingSchool](https://mydrivingschool.in)**. I enjoy owning the whole journey — understanding the problem, designing the system, shipping the product, and keeping it dependable.
 
 ### Selected work
 
-| Project | What I’m building | Explore |
-| :--- | :--- | :--- |
-| **Griffin AI Tech** | Enterprise AI products, agent orchestration, and cloud-native infrastructure. | [Website ↗](https://griffinaitech.com) |
-| **MyDrivingSchool** | Driving school management with attendance, fee tracking, and multilingual workflows. | [Website ↗](https://mydrivingschool.in) |
-| **Portfolio** | My work, experience, and approach to building products and platforms. | [Live ↗](https://naveenmalothu.com) · [Source ↗](https://github.com/MalothuNaveen/naveen-portfolio-website) |
+<a href="https://griffinaitech.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/griffin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/griffin-light.svg"><img src="assets/griffin-light.svg" width="49%" alt="Griffin AI Tech — enterprise AI products and agent orchestration. Founder and architect."></picture></a>
+<a href="https://mydrivingschool.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/driving-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/driving-light.svg"><img src="assets/driving-light.svg" width="49%" alt="MyDrivingSchool — driving school management with attendance, fees and multilingual workflows. Founder and full-stack developer."></picture></a>
 
-### Let’s make something useful
+[Explore my work and experience ↗](https://naveenmalothu.com) · [Portfolio source ↗](https://github.com/MalothuNaveen/naveen-portfolio-website)
 
-Have an ambitious idea or a tricky infrastructure challenge? [Email me](mailto:admin@naveenmalothu.com) or [connect on LinkedIn](https://linkedin.com/in/naveen-malothu).
+### How I think about engineering
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/principles-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/principles-light.svg">
+  <img src="assets/principles-light.svg" width="100%" alt="My engineering approach: clarity before complexity, reliability as a feature, and ownership from product to infrastructure.">
+</picture>
+
+I care about the decisions behind a system as much as the code inside it: clear boundaries, understandable failure modes, observable behavior, and a delivery process the team can trust.
+
+### Tools I ship with
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg">
+  <img src="assets/toolkit-light.svg" width="100%" alt="AI: Python, FastAPI, LangChain, LangGraph, OpenAI and RAG. Cloud: AWS, GCP, Azure, Kubernetes, Docker and Terraform. Delivery: GitHub Actions, ArgoCD, Helm, Prometheus, Grafana and OpenTelemetry. Product: React, Next.js, TypeScript, Node.js and PostgreSQL.">
+</picture>
+
+### Let’s build something that lasts.
+
+An ambitious product, a challenging infrastructure problem, or a team that needs a builder — **[let’s talk](mailto:admin@naveenmalothu.com)**.
+
+Open to **engineering roles · consulting · collaborations**. Based in **India**, working **remotely**.
 
 ---
 
-<p align="center"><sub>Build with curiosity. Ship with intention.</sub></p>
+<p align="center"><sub>Thoughtful systems. Useful products. End-to-end ownership.</sub></p>
