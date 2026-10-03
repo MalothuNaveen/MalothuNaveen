@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
-  <img alt="Naveen Malothu — AI Infrastructure Engineer and Founder. Building AI systems, cloud platforms, and products." src="assets/profile-light.svg" width="100%">
+  <img alt="Animated ASCII portrait of Naveen Malothu alongside a developer terminal with AI, cloud, DevOps and founder details." src="assets/profile-light.svg" width="100%">
 </picture>
 
 <p align="center">
